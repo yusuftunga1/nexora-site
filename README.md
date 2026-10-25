@@ -97,7 +97,7 @@ Marka adı, rakamlar, ürün adları ve `merhaba@nexora.example` adresi örnekti
 ## 🌌 Diğer Projeler
 
 - ⚡ **[3d-portfolio](https://github.com/yusuftunga1/3d-portfolio)**: React 19, Three.js ve Tailwind CSS v4 ile geliştirilmiş etkileşimli 3D parçacık ve WebGL portfolyosu ([Canlı Demo](https://yusuftunga1.github.io/3d-portfolio/)).
-- 🎬 **[yusuftunga1.github.io](https://github.com/yusuftunga1/yusuftunga1.github.io)**: Kaydırma ile açılan sinematik kişisel site ([Canlı Demo](https://yusuftunga1.github.io)).
+- 🎬 **[portfolio-site](https://github.com/yusuftunga1/portfolio-site)**: Kaydırma ile açılan sinematik kişisel site ([Canlı Demo](https://yusuftunga1.github.io/portfolio-site/)).
 
 ---
 
