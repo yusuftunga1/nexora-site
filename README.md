@@ -1,3 +1,5 @@
+> **Not:** Bu web sitesi bir örnek / test sitesidir. Gerçek bir ürün, hizmet veya kuruluşu temsil etmez ve ticari amaç taşımaz. İçerikteki ad, marka ve bilgiler kurgusaldır. Kişisel veri toplamak amaçlanmaz; lütfen formlara gerçek kişisel bilgilerinizi girmeyin.
+
 <div align="center">
 
 # 🌐 Nexora — 3B Teknoloji Sitesi
